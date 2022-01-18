@@ -14,7 +14,7 @@
 
 ## Quick Start
 
-	wget https://naturallanguagelibrary.github.io/NLP-library/
+	wget https://naturallanguagelibrary.github.io/NLL/
 	
 
 To create some "audible" output you can try the -declaim option:
@@ -23,7 +23,7 @@ To create some "audible" output you can try the -declaim option:
 
 ## ମୁଖ୍ୟ ଶବ୍ଦଗୁଡ଼ିକର ସଂକ୍ଷିପ୍ତ ସମୀକ୍ଷା |
 
-Check the [wiki](http://github.com/lhartikk/ArnoldC/wiki/ArnoldC) for more details
+Check the [wiki]() for more details
 
 False `ମିଥ୍ୟା`
 
