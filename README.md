@@ -12,7 +12,7 @@
 
 	ମୁଦ୍ରଣ("ନମସ୍କାର ବିଶ୍ୱବାସି")
 
-## Quick Start
+## ଶୀଘ୍ର ଆରମ୍ଭ ପାଇଁ 
 
 	wget https://github.com/WeR19/Natural-Language-Library.git
 	import OdiaNLL.py
@@ -24,7 +24,7 @@
 
 ## ମୁଖ୍ୟ ଶବ୍ଦଗୁଡ଼ିକର ସଂକ୍ଷିପ୍ତ ସମୀକ୍ଷା |
 
-Check the [wiki](https://github.com/WeR19/Natural-Language-Library/wiki/Natural-Language-Library) for more details
+ଅଧିକ ବିବରଣୀ ପାଇଁ [wiki](https://github.com/WeR19/Natural-Language-Library/wiki/Natural-Language-Library) ଯାଞ୍ଚ କରନ୍ତୁ |
 
 False `ମିଥ୍ୟା`
 
