@@ -14,8 +14,8 @@
 
 ## Quick Start
 
-	wget https://naturallanguagelibrary.github.io/NLL/
-	import NLL.py
+	wget https://github.com/WeR19/Natural-Language-Library.git
+	import OdiaNLL.py
 	
 
 
