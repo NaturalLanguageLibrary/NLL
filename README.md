@@ -24,7 +24,7 @@
 
 ## ମୁଖ୍ୟ ଶବ୍ଦଗୁଡ଼ିକର ସଂକ୍ଷିପ୍ତ ସମୀକ୍ଷା |
 
-Check the [wiki](https://github.com/WeR19/Natural-Language-Library/wiki) for more details
+Check the [wiki](https://github.com/WeR19/Natural-Language-Library/wiki/Natural-Language-Library) for more details
 
 False `ମିଥ୍ୟା`
 
