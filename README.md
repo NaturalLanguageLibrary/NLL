@@ -15,9 +15,10 @@
 ## Quick Start
 
 	wget https://naturallanguagelibrary.github.io/NLL/
+	import NLL.py
 	
 
-To create some "audible" output you can try the -declaim option:
+
 
 	
 
